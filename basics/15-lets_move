@@ -1,2 +1,2 @@
 #!/bin/bash
-mv `ls | egrep '^[[:upper:]].*'` /tmp/u
+mv `ls | egrep '^[[:upper:]]'` /tmp/u
