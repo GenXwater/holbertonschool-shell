@@ -1,2 +1,2 @@
 #!/bin/bash
-mv `ls | egrep '^'` /tmp/u
+mv [A-Z]* /tmp/u
