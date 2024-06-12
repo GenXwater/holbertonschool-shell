@@ -1,2 +1,2 @@
 #!/bin/bash
-tr '~' 'Ô' <echo
+alias smiley="echo '(Ôo)\'''
